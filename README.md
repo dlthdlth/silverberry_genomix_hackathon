@@ -2,6 +2,8 @@
 
 # Silverberry Genomix Hackathon
 
+project: product recommender based on personalized DNA nutrition report
+
 Live demo: https://youtu.be/gdyy4dAfbcA 
 
 
