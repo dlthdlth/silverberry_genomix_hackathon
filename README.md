@@ -1,3 +1,7 @@
 # Silverberry Genomix Hackathon
 
-#test
+
+## resources 
+
+- chrome extension boilerplate by http://extensionizr.com 
+
