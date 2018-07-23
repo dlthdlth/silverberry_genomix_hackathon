@@ -2,9 +2,9 @@
 
 # Silverberry Genomix Hackathon
 
-project: product recommender based on personalized DNA nutrition report
-This project placed First Place in the hackthon 
-* app still in progress 
+- Project: product recommender based on personalized DNA nutrition report
+- Placed First Place in the hackthon 
+- Chrome extension still in progress in development 
 
 Live demo: https://youtu.be/gdyy4dAfbcA 
 
@@ -18,6 +18,13 @@ Live demo: https://youtu.be/gdyy4dAfbcA
 ![alt text](https://github.com/dlthdlth/silverberry_genomix_hackathon/blob/master/image3.png)
 
 
+# Team members 
+
+Alexander Li
+Chris Yan
+Sohy Lee
+Simon Plovyt
+Zoie Zhu 
 
 ## resources 
 
